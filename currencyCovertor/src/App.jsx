@@ -1,4 +1,4 @@
-import {InputBox} from "./components/InputBox"
+import InputBox from "./components/InputBox"
 import useCurrencyInfo from "./hooks/useCurrencyInfo"
 import { useState } from "react"
 
